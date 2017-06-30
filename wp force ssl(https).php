@@ -1,10 +1,11 @@
 <?php
 
 /*
-Plugin Name: WordPress Force SSL
+Plugin Name: WordPress Force SSL/https (force whole site to be open in https protocol)
 Description: Forces your entire wordpress to be open in https
 Author: Ayush mehrotra
 Author URI: https://www.beginblog.in
+Git hub URI: https://github.com/beginblog/wordpress-force-ssl/
 Version: 1
 */
 
